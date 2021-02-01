@@ -1,0 +1,37 @@
+.icon1:hover{
+    background-color: #4e9525;
+    cursor: pointer;
+}
+
+.name:hover{
+    cursor: pointer;
+}
+
+.title:hover{
+    color:#fbd341;
+    border-bottom: 2px solid yellow;
+}
+
+.f-i:hover, .h-text:hover{
+    color:#4e9525;
+}
+
+.s-icon:hover{
+    color:#fbd341;
+    background-color: #4e9525;
+}
+
+.flex-s3-content:hover .icon-space {
+    background-color: #fbd341;
+    color:#4e9525;
+    border:#fbd341;
+}
+.flex-s3-content:hover {
+    background-color: #4e9525;
+}
+
+.icon-space:hover{
+    background-color: #fbd341;
+    color:#4e9525;
+    border:#fbd341;
+}
